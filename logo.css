@@ -1,0 +1,14 @@
+.pushpa{
+    background-color: #316ff6;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+}
+.pushpa p{
+    color: #fff;
+    font-family: sans-serif,klavika;
+    font-size: 120px;
+    font-weight: 600;
+    
+}
